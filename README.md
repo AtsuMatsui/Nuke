@@ -1,2 +1,2 @@
 # Nuke
-This is my custom Nuke tools (planning to build more). 
+This is where I store my custom Nuke tools (planning to build more). 
