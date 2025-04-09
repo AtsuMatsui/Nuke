@@ -1,4 +1,4 @@
 # Nuke  
 [English](./README.md) / Japanese  
   
-こちらではNuke用のツールを保管しています。（絶賛制作中！）
+こちらではNuke用のツールを保管しています。（現在開発中です）
